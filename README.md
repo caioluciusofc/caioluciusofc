@@ -1,16 +1,16 @@
-## Hi there 👋
+# Caio Lucius
 
-<!--
-**caioluciusofc/caioluciusofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Engenharia de Software na UDF | Brasília, DF**
 
-Here are some ideas to get you started:
+Desenvolvo projetos acadêmicos em programação, banco de dados e desenvolvimento web. Neste semestre, pratiquei modelagem de dados e consultas em MySQL, programação em C e criação de páginas com HTML e CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e ferramentas
+
+- **Banco de dados:** SQL, MySQL e MySQL Workbench
+- **Programação:** C e Python
+- **Desenvolvimento web:** HTML, CSS e JavaScript
+- **Ferramentas:** Git, GitHub e Visual Studio Code
+
+## Projeto publicado
+
+- [Atividade HTML e CSS](https://github.com/caioluciusofc/Atividade-HTML-CSS) — atividade acadêmica de desenvolvimento web.
